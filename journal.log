@@ -1,0 +1,86 @@
+2021-02-05 15:09:48,718 INFO Started server process [19140]
+2021-02-05 15:09:48,840 INFO Waiting for application startup.
+2021-02-05 15:09:49,028 INFO Application startup complete.
+2021-02-05 15:09:55,846 INFO Shutting down
+2021-02-05 15:09:55,958 INFO Waiting for application shutdown.
+2021-02-05 15:09:55,960 INFO Application shutdown complete.
+2021-02-05 15:09:55,963 INFO Finished server process [19140]
+2021-02-05 15:10:12,702 INFO Started server process [15500]
+2021-02-05 15:10:12,704 INFO Waiting for application startup.
+2021-02-05 15:10:12,726 INFO Application startup complete.
+2021-02-05 15:10:12,752 INFO Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2021-02-05 15:14:26,157 INFO Shutting down
+2021-02-05 15:14:26,260 INFO Waiting for application shutdown.
+2021-02-05 15:14:26,261 INFO Application shutdown complete.
+2021-02-05 15:14:26,267 INFO Finished server process [15500]
+2021-02-05 15:14:32,418 INFO Started server process [20708]
+2021-02-05 15:14:32,422 INFO Waiting for application startup.
+2021-02-05 15:14:32,441 INFO Application startup complete.
+2021-02-05 15:14:32,446 INFO Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2021-02-05 15:15:33,767 INFO réalisé le 5/02/21
+2021-02-05 15:16:24,591 ERROR token invalide, erreur 401
+2021-02-05 15:16:57,681 ERROR token invalide, erreur 401
+2021-02-05 15:17:31,798 INFO application réussi
+2021-02-05 15:17:50,720 INFO application réussi
+2021-02-05 15:30:07,610 INFO Shutting down
+2021-02-05 15:30:07,712 INFO Waiting for application shutdown.
+2021-02-05 15:30:07,715 INFO Application shutdown complete.
+2021-02-05 15:30:07,717 INFO Finished server process [20708]
+2021-02-19 16:27:45,509 INFO Started server process [15468]
+2021-02-19 16:27:45,511 INFO Waiting for application startup.
+2021-02-19 16:27:45,513 INFO Application startup complete.
+2021-02-19 16:27:45,516 INFO Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2021-02-19 16:27:52,049 INFO Shutting down
+2021-02-19 16:27:52,150 INFO Waiting for application shutdown.
+2021-02-19 16:27:52,152 INFO Application shutdown complete.
+2021-02-19 16:27:52,154 INFO Finished server process [15468]
+2021-02-19 16:28:06,785 INFO Started server process [16128]
+2021-02-19 16:28:06,787 INFO Waiting for application startup.
+2021-02-19 16:28:06,790 INFO Application startup complete.
+2021-02-19 16:28:06,837 INFO Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2021-02-19 16:28:53,544 INFO réalisé le 5/02/21
+2021-02-19 16:30:11,142 INFO application reussi
+2021-02-28 19:42:34,966 INFO Shutting down
+2021-02-28 19:42:35,086 INFO Waiting for application shutdown.
+2021-02-28 19:42:35,101 INFO Application shutdown complete.
+2021-02-28 19:42:35,103 INFO Finished server process [16128]
+2021-02-28 20:01:49,280 INFO Started server process [15576]
+2021-02-28 20:01:49,281 INFO Waiting for application startup.
+2021-02-28 20:01:49,282 INFO Application startup complete.
+2021-02-28 20:01:49,284 INFO Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2021-02-28 20:04:39,608 INFO Shutting down
+2021-02-28 20:04:39,710 INFO Waiting for application shutdown.
+2021-02-28 20:04:39,713 INFO Application shutdown complete.
+2021-02-28 20:04:39,715 INFO Finished server process [15576]
+2021-02-28 20:04:53,579 INFO Started server process [19408]
+2021-02-28 20:04:53,580 INFO Waiting for application startup.
+2021-02-28 20:04:53,580 INFO Application startup complete.
+2021-02-28 20:04:53,594 INFO Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2021-02-28 20:06:58,416 INFO application reussi
+2021-02-28 20:30:06,165 INFO Shutting down
+2021-02-28 20:30:06,269 INFO Waiting for application shutdown.
+2021-02-28 20:30:06,271 INFO Application shutdown complete.
+2021-02-28 20:30:06,272 INFO Finished server process [19408]
+2021-02-28 20:30:09,590 INFO Started server process [20276]
+2021-02-28 20:30:09,591 INFO Waiting for application startup.
+2021-02-28 20:30:09,592 INFO Application startup complete.
+2021-02-28 20:30:09,606 INFO Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2021-02-28 20:56:56,046 INFO Shutting down
+2021-02-28 20:56:56,150 INFO Waiting for application shutdown.
+2021-02-28 20:56:56,151 INFO Application shutdown complete.
+2021-02-28 20:56:56,151 INFO Finished server process [20276]
+2021-02-28 20:56:59,473 INFO Started server process [21708]
+2021-02-28 20:56:59,474 INFO Waiting for application startup.
+2021-02-28 20:56:59,475 INFO Application startup complete.
+2021-02-28 20:56:59,497 INFO Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2021-02-28 22:13:38,145 INFO Shutting down
+2021-02-28 22:13:38,248 INFO Waiting for application shutdown.
+2021-02-28 22:13:38,249 INFO Application shutdown complete.
+2021-02-28 22:13:38,250 INFO Finished server process [21708]
+2021-02-28 22:13:42,947 INFO Started server process [22488]
+2021-02-28 22:13:42,948 INFO Waiting for application startup.
+2021-02-28 22:13:42,949 INFO Application startup complete.
+2021-02-28 22:13:42,962 INFO Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2021-02-28 22:14:48,720 INFO application reussi
+2021-02-28 22:15:03,909 INFO application reussi
+2021-03-01 14:24:27,656 ERROR token invalide, erreur 22

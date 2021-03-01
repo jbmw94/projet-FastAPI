@@ -1,0 +1,23 @@
+INFO:uvicorn.error:Started server process [16520]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+WARNING:root:{'message': 'token invalide', 'status Code': '401'}
+WARNING:root:{'message': 'token invalide', 'status Code': '401'}
+WARNING:root:{'message': 'token invalide', 'status Code': '401'}
+WARNING:root:{'message': 'token invalide', 'status Code': '401'}
+WARNING:root:{'message': 'token invalide', 'status Code': '401'}
+WARNING:root:{'message': 'token invalide', 'status Code': '401'}
+WARNING:root:{'message': 'token invalide', 'status Code': '401'}
+WARNING:root:{'message': 'token invalide', 'status Code': '401'}
+WARNING:root:{'message': 'token invalide', 'status Code': '401'}
+WARNING:root:{'message': 'token invalide', 'status Code': '401'}
+WARNING:root:{'message': 'token invalide', 'status Code': '401'}
+WARNING:root:{'message': 'token invalide', 'status Code': '401'}
+WARNING:root:{'message': 'token invalide', 'status Code': '401'}
+2021-02-05 14:57:13,793 Started server process [10980]
+2021-02-05 14:57:13,866 Waiting for application startup.
+2021-02-05 14:57:13,994 Application startup complete.
+2021-02-05 14:57:28,425 {'message': 'token invalide', 'status Code': '401'}
+02/05/2021 02:59:02 PM Started server process [9932]
+02/05/2021 02:59:02 PM Waiting for application startup.
+02/05/2021 02:59:02 PM Application startup complete.
